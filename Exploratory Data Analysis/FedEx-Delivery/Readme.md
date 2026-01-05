@@ -12,6 +12,7 @@ c) Explore cost patterns across shipment types and regions
 d) Identify frequently used routes and destinations
 e) Detect anomalies or outliers in delivery duration and cost
 
+
 🗂️ Dataset Contents (Typical Columns)
 
 (Exact column names may vary slightly)
