@@ -1,2 +1,2 @@
-### Projects to display data analytical skillset
-
+# Data Analytics Portfolio
+Welcome to my Data Analytics Portfolio! This repository showcases a collection of projetcs involving Exploratory Data Analysis, End-to-End Analysis, and Process Reperformace and Recalculation.
