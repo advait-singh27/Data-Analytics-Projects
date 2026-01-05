@@ -43,15 +43,6 @@ Across the projects in this folder, I apply:
 
 ---
 
-## Tools & Technologies
-Depending on the project, I use:
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Power BI** (Power Query, DAX, interactive visuals)
-- **Excel** (Pivot tables, formulas, charts)
-- **SQL** (for querying and aggregating data)
-
----
-
 ## Purpose
 These projects are part of my data analytics portfolio and demonstrate my ability to:
 - Approach data problems systematically
