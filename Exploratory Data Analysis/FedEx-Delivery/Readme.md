@@ -1,37 +1,40 @@
-FedEx Delivery History – Exploratory Data Analysis
+# 📦 FedEx Delivery History – Exploratory Data Analysis
 
-📌 Dataset Overview:
-This dataset contains historical delivery records from FedEx, capturing detailed information about shipment logistics, delivery timelines, shipment modes, locations, and costs. The data is useful for analyzing delivery performance, delays, shipment efficiency, and operational patterns across different regions and transport modes.
+## 📌 Dataset Overview
+This dataset contains historical delivery records from **FedEx**, capturing detailed information related to shipment logistics, delivery timelines, shipment modes, destinations, and costs. It is well-suited for performing **Exploratory Data Analysis (EDA)** to uncover patterns, delays, inefficiencies, and trends within logistics and supply chain operations.
 
-The dataset is suitable for Exploratory Data Analysis (EDA) to uncover trends, inefficiencies, and insights related to supply chain and logistics operations.
+---
 
-📊 Key Objectives of This Analysis
-a) Understand delivery timelines and identify delays
-b) Analyze shipment modes and their impact on delivery performance
-c) Explore cost patterns across shipment types and regions
-d) Identify frequently used routes and destinations
-e) Detect anomalies or outliers in delivery duration and cost
+## 🎯 Objective of the Analysis
+The primary goals of this EDA project are:
+- To analyze delivery timelines and identify shipment delays  
+- To understand the impact of shipment modes on delivery performance  
+- To explore cost distribution across different shipment types and regions  
+- To identify frequently used destinations and shipment routes  
+- To detect anomalies and outliers in delivery duration and cost  
 
+---
 
-🗂️ Dataset Contents (Typical Columns)
+## 🗂️ Dataset Description
+The dataset includes (but is not limited to) the following fields:
 
-(Exact column names may vary slightly)
+- **ID / Shipment ID** – Unique identifier for each shipment  
+- **Shipment Mode** – Mode of transportation (Air, Sea, Ground, etc.)  
+- **Origin Country** – Shipment source location  
+- **Destination Country** – Shipment destination  
+- **Vendor / Supplier** – Entity responsible for shipment  
+- **Product Category / Description** – Type of goods shipped  
+- **Scheduled Delivery Date** – Planned delivery date  
+- **Actual Delivery Date** – Actual delivery completion date  
+- **Delivery Status** – Indicates whether the shipment was on time or delayed  
+- **Shipment Cost** – Cost incurred for the shipment  
+- **Weight / Quantity** – Size or quantity of goods shipped  
 
-Shipment ID / ID – Unique identifier for each shipment
-Shipment Mode – Type of transport (Air, Sea, Ground, etc.)
-Origin / Destination Country – Shipment source and destination
-Vendor / Supplier – Entity responsible for shipment
-Product Category / Description – Nature of goods shipped
-Scheduled Delivery Date – Planned delivery date
-Actual Delivery Date – Actual delivery completion date
-Delivery Status – On-time, delayed, completed, etc.
-Shipment Cost – Cost incurred for shipment
-Weight / Quantity – Shipment size details
+---
 
-🛠️ Tools & Technologies Used
-
-Python
-Pandas – Data manipulation
-NumPy – Numerical analysis
-Matplotlib & Seaborn – Data visualization
-Jupyter Notebook – Interactive analysis environment
+## 🛠️ Tools & Technologies Used
+- **Python**
+- **Pandas** – Data manipulation and analysis  
+- **NumPy** – Numerical computations  
+- **Matplotlib & Seaborn** – Data visualization  
+- **Jupyter Notebook** – Interactive EDA environment  
