@@ -7,6 +7,16 @@ The dataset is well-suited for **Exploratory Data Analysis (EDA)** to understand
 
 ---
 
+## 📌 Problem Statement
+
+In modern supply chain operations, organizations handle large volumes of shipment data across multiple countries, vendors, transportation modes, and cost structures. However, raw logistics data often lacks clarity and actionable insights without systematic analysis.
+
+The objective of this project is to perform **Exploratory Data Analysis (EDA)** on a supply chain shipment dataset to understand shipment distribution, transportation patterns, cost drivers, and vendor behavior. By analyzing variables such as shipment country, shipment mode, freight cost, shipment weight, line item quantity, and vendor activity, this project aims to uncover hidden patterns, identify inefficiencies, and highlight key factors influencing logistics performance.
+
+The insights derived from this analysis can help supply chain stakeholders optimize transportation mode selection, improve cost efficiency, strengthen vendor management, and support data-driven decision-making for operational planning and strategy.
+
+---
+
 ## 🎯 Objective of the Analysis
 The primary objectives of this EDA project are to:
 - Analyze shipment pricing patterns across different shipment modes  
